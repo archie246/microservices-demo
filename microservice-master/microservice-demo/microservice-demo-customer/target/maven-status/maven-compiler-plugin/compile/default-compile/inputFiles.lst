@@ -1,0 +1,5 @@
+/root/codefresh/microservice_archie246/microservices-demo/microservice-master/microservice-demo/microservice-demo-customer/src/main/java/com/ewolff/microservice/customer/CustomerApp.java
+/root/codefresh/microservice_archie246/microservices-demo/microservice-master/microservice-demo/microservice-demo-customer/src/main/java/com/ewolff/microservice/customer/Customer.java
+/root/codefresh/microservice_archie246/microservices-demo/microservice-master/microservice-demo/microservice-demo-customer/src/main/java/com/ewolff/microservice/customer/web/CustomerController.java
+/root/codefresh/microservice_archie246/microservices-demo/microservice-master/microservice-demo/microservice-demo-customer/src/main/java/com/ewolff/microservice/customer/SpringRestDataConfig.java
+/root/codefresh/microservice_archie246/microservices-demo/microservice-master/microservice-demo/microservice-demo-customer/src/main/java/com/ewolff/microservice/customer/CustomerRepository.java

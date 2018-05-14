@@ -1,0 +1,5 @@
+/root/codefresh/microservice_archie246/microservices-demo/microservice-master/microservice-demo/microservice-demo-customer/src/test/java/com/ewolff/microservice/customer/CustomerWebIntegrationTest.java
+/root/codefresh/microservice_archie246/microservices-demo/microservice-master/microservice-demo/microservice-demo-customer/src/test/java/com/ewolff/microservice/customer/cdc/CustomerConsumerDrivenContractTest.java
+/root/codefresh/microservice_archie246/microservices-demo/microservice-master/microservice-demo/microservice-demo-customer/src/test/java/com/ewolff/microservice/customer/cdc/Customer.java
+/root/codefresh/microservice_archie246/microservices-demo/microservice-master/microservice-demo/microservice-demo-customer/src/test/java/com/ewolff/microservice/customer/CustomerTestApp.java
+/root/codefresh/microservice_archie246/microservices-demo/microservice-master/microservice-demo/microservice-demo-customer/src/test/java/com/ewolff/microservice/customer/cdc/CustomerClient.java
